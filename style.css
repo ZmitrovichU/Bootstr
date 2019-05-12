@@ -1,0 +1,92 @@
+header {
+    background-image: url(img/header.png);
+    background-position: 20% 40%;
+}
+.discription {
+    margin-top: 300px;
+    color: white;
+    margin-bottom: 300px;
+}
+.discription button {
+    width: 165px;
+    height: 50px;
+    text-transform: uppercase;
+    border-radius: 2px;
+    background-color: #998675;
+    color: #fff;
+    border: 0;
+    margin-top: 50px;
+}
+.carousel-item { 
+    margin: 0 auto;
+    text-align: center;
+}
+.carousel-control-next-icon {
+    margin-left: 150px;
+}
+.carousel-control-prev-icon {
+    margin-left: -150px;
+}
+.menu {
+    margin-top:60px;
+}
+.logo {
+    margin-top: 40px;
+    width: 180px;
+}
+.menu__item {
+    margin: 0 15px;
+    list-style-type: none;
+}
+
+.menu__item a {
+    font-size:14px;
+    color: #ffffff;
+}
+.menu__item a:hover {
+    color: #c7b299;
+    text-decoration: none;
+}
+.feature img {
+    height: 45px;
+    width: 45px;
+    display: block;
+    margin: 0 auto;
+}
+.feature {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom:110px;
+    width: 272px;
+}
+.feature__title:hover, .feature__text:hover {
+    color: #c7b299;
+}
+.feature__title {
+    font-size: 22px;
+    color: #555555;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.feature__text {
+    font-size: 14px;
+    color:#8c8c8c;
+    line-height: 20px;
+}
+.ideas {
+    background-color: #fbfaf8; 
+}
+.realization {
+    text-align: center;
+    margin: 80px auto 40px auto;
+}
+.ideas img {
+    position: absolute;
+    border-radius: 4px;
+}
+.img-center {
+    margin: 0 auto;
+}
+.img-right, .img-left {
+    margin-top: 80px
+}
